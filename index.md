@@ -6,4 +6,8 @@
 import pandas as pd 
 print('You have imported pandas')
 ```
-
+###### Task List 
+- [X] first thing to do
+- [X] second thing to do
+- [ ] third thing to do
+- [ ] final task in the list
